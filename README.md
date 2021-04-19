@@ -1,6 +1,6 @@
 # dialogs
 
-A new Flutter project.
+Simple usage of Completer and Dialog Architect.
 
 ## Getting Started
 
